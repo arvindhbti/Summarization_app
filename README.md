@@ -1,4 +1,4 @@
-**Summarization** -
+**Summarization using Streamlit** -
 
 This app takes input as text and create summary using below options.
 
