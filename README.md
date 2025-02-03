@@ -1,4 +1,13 @@
-STEPS TO DIPLOY THE APPLICATION IN CLOUD
+**Summarization** -
+
+This app takes input as text and create summary using below options.
+
+This app contains 2 models - 
+
+1) Transformer model
+2) LLM model from OLLAMA framework
+
+**STEPS TO DIPLOY THE APPLICATION IN CLOUD**
 
 1)  Set Project ID Environment Variable
 
