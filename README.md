@@ -24,3 +24,8 @@ This app contains 2 models -
 7) Check Service
 
 8) See the app in action on web address
+
+**STEPS TO RUN THE APP** - 
+1) Open command prompt
+2) Run as "streamlit run summ_app.py"
+3) It will be hosted in your local browser
